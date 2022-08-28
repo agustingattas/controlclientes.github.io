@@ -8,8 +8,11 @@ To make the proyect a used the next technologies: bootstrap, font-awesome, java,
 LOGIN
 ![image](https://user-images.githubusercontent.com/92380443/187067526-3acf1b6f-70cb-4203-9e9e-fbb776891a7f.png)
 
-INDEX
+INDEX-ADMIN
 ![image](https://user-images.githubusercontent.com/92380443/187067549-3713dccc-933e-4942-a58a-d292eaef4614.png)
+
+INDEX-USER
+![image](https://user-images.githubusercontent.com/92380443/187067707-17ef5072-68c3-4981-b62d-5b7c72368e88.png)
 
 CREATE
 ![image](https://user-images.githubusercontent.com/92380443/187067565-f323c75d-880e-4610-923c-a877bcbf0bd6.png)

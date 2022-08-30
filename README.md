@@ -1,5 +1,6 @@
 # agustingattas.github.io
-In this proyect "Control Cliebtes" is a website to see a list of clients, create new clientes, edit and delet them of the list and to see the balance. 
+In this proyect "Control Clientes" is a website to see a list of clients, create new clientes, edit and delet them of the list.
+Also is posible to see how many clientes are in the list and the total balance of the list. 
 Exist two tipe of rols to start session, the User and the Admin. The user has authorization to see the list of clients. 
 The admin can see the list, edit and delet clients of the list.
 
